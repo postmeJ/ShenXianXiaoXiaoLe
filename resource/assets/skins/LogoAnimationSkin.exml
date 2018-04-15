@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LogoAnimationSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Label id="logo_txt" text="sky出品，必出精品" y="627" width="343" verticalAlign="middle" textAlign="center" textColor="0x2FEA13" bold="true" horizontalCenter="0.5" fontFamily="Comic Sans MS"/>
+	<e:Image id="logo" source="logo_png" y="41" horizontalCenter="0"/>
+</e:Skin>

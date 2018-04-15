@@ -1,0 +1,19 @@
+{
+	"file":"skill.png",
+	"frames":
+	{
+    	"skill_skill_lxmm0":{"w":137,"h":76,"sourceW":175,"originalHeight":175,"x":0,"y":0,"offX":1,"offY":-48.5},
+		"skill_skill_lxmm1":{"w":137,"h":75,"sourceW":175,"originalHeight":175,"x":139,"y":0,"offX":-1,"offY":-48},
+		"skill_skill_lxmm2":{"w":156,"h":155,"sourceW":175,"originalHeight":175,"x":278,"y":0,"offX":0.5,"offY":-10},
+		"skill_skill_lxmm3":{"w":172,"h":175,"sourceW":175,"originalHeight":175,"x":436,"y":0,"offX":1.5,"offY":0},
+		"other_bom0":{"w":150,"h":137,"sourceW":150,"originalHeight":150,"x":610,"y":0,"offX":0,"offY":2.5},
+		"other_bom1":{"w":150,"h":135,"sourceW":150,"originalHeight":150,"x":762,"y":0,"offX":0,"offY":2.5},
+		"other_bom2":{"w":150,"h":146,"sourceW":150,"originalHeight":150,"x":0,"y":78,"offX":0,"offY":2},
+		"other_djbg0":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":914,"y":0,"offX":0,"offY":0},
+		"other_djbg1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":966,"y":0,"offX":0,"offY":0},
+		"other_win1":{"w":200,"h":200,"sourceW":200,"originalHeight":200,"x":762,"y":137,"offX":0,"offY":0},
+		"other_win0":{"w":145,"h":169,"sourceW":200,"originalHeight":200,"x":610,"y":139,"offX":-0.5,"offY":-1.5},
+		"other_update0":{"w":100,"h":46,"sourceW":100,"originalHeight":50,"x":152,"y":77,"offX":0,"offY":2},
+		"other_update1":{"w":100,"h":45,"sourceW":100,"originalHeight":50,"x":152,"y":125,"offX":0,"offY":2.5}
+	}
+}

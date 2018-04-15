@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="SettingSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect height="960" width="640" x="0" y="0" alpha="0.7" locked="true"/>
+	<e:Image source="set_setimg" x="81" y="253"/>
+	<e:Image source="set_setimg" y="253" scaleX="-1" anchorOffsetX="0" horizontalCenter="175"/>
+	<e:Image id="bg" source="setbg_png" y="294" horizontalCenter="0" locked="true"/>
+	<e:Image source="set_settit" y="227" horizontalCenter="0"/>
+	<e:Image id="reg_btn" source="btnbg_png" x="53" y="430"/>
+	<e:Image id="quit_btn" source="btnbg_png" y="430" x="192"/>
+	<e:Image id="sound_btn" source="btnbg_png" x="330" y="430"/>
+	<e:Image id="sound_eff_btn" source="btnbg_png" x="474" y="430"/>
+	<e:Label id="user_txt" text="账号：skybear" y="344" width="421" verticalAlign="middle" textAlign="center" horizontalCenter="0.5" fontFamily="微软雅黑"/>
+	<e:Image id="reg_content" source="regbtn~1_png" x="72" verticalCenter="6.5" touchEnabled="false"/>
+	<e:Image id="quit_content" source="offlogbtn_png" x="211" y="466" touchEnabled="false"/>
+	<e:Image source="set_music_open_btn" x="352" verticalCenter="7" touchEnabled="false"/>
+	<e:Image source="set_sound_open_btn" x="495" verticalCenter="7.5" touchEnabled="false" locked="true"/>
+	<e:Image id="sound_eff_close" source="set_close" x="496" y="452" touchEnabled="false"/>
+	<e:Image id="sound_close" source="set_close" y="452" x="351" touchEnabled="false"/>
+</e:Skin>

@@ -1,0 +1,34 @@
+{
+	"file":"menu.png",
+	"frames":
+	{
+    	"menu_attacttxt":{"w":94,"h":35,"sourceW":94,"originalHeight":35,"x":0,"y":0,"offX":0,"offY":0},
+		"menu_dj_img0":{"w":80,"h":82,"sourceW":86,"originalHeight":86,"x":96,"y":0,"offX":0,"offY":0},
+		"menu_dj_img1":{"w":80,"h":82,"sourceW":86,"originalHeight":86,"x":178,"y":0,"offX":0,"offY":0},
+		"menu_dj_img2":{"w":80,"h":82,"sourceW":86,"originalHeight":86,"x":260,"y":0,"offX":0,"offY":0},
+		"menu_dj_img3":{"w":80,"h":82,"sourceW":86,"originalHeight":86,"x":342,"y":0,"offX":0,"offY":0},
+		"menu_help_btn":{"w":67,"h":62,"sourceW":67,"originalHeight":67,"x":424,"y":0,"offX":0,"offY":0.5},
+		"menu_selectbg":{"w":86,"h":87,"sourceW":86,"originalHeight":87,"x":493,"y":0,"offX":0,"offY":0},
+		"menu_set_btn":{"w":67,"h":67,"sourceW":67,"originalHeight":67,"x":581,"y":0,"offX":0,"offY":0},
+		"menu_shopbtnbg":{"w":116,"h":116,"sourceW":116,"originalHeight":116,"x":650,"y":0,"offX":0,"offY":0},
+		"menu_we_solder0":{"w":88,"h":98,"sourceW":100,"originalHeight":100,"x":768,"y":0,"offX":0,"offY":1},
+		"menu_we_solder1":{"w":134,"h":148,"sourceW":150,"originalHeight":150,"x":858,"y":0,"offX":0,"offY":0},
+		"menu_we_solder2":{"w":82,"h":94,"sourceW":100,"originalHeight":100,"x":0,"y":37,"offX":1,"offY":-1},
+		"menu_we_solder3":{"w":93,"h":105,"sourceW":110,"originalHeight":110,"x":84,"y":84,"offX":0.5,"offY":-1.5},
+		"menu_we_solder4":{"w":82,"h":96,"sourceW":100,"originalHeight":100,"x":179,"y":84,"offX":0,"offY":-1},
+		"menu_we_solder5":{"w":90,"h":94,"sourceW":100,"originalHeight":100,"x":263,"y":84,"offX":0,"offY":-2},
+		"menu_propfram":{"w":123,"h":122,"sourceW":123,"originalHeight":122,"x":355,"y":84,"offX":0,"offY":0},
+		"menu_levimg":{"w":36,"h":23,"sourceW":36,"originalHeight":23,"x":581,"y":69,"offX":0,"offY":0},
+		"menu_wall1_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":480,"y":89,"offX":0,"offY":0},
+		"menu_wall2_1":{"w":50,"h":48,"sourceW":50,"originalHeight":50,"x":532,"y":94,"offX":0,"offY":-1},
+		"menu_wall3_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":584,"y":94,"offX":0,"offY":0},
+		"menu_wall4_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":768,"y":100,"offX":0,"offY":0},
+		"menu_wall5_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":636,"y":118,"offX":0,"offY":0},
+		"shop_price":{"w":26,"h":27,"sourceW":26,"originalHeight":27,"x":994,"y":0,"offX":0,"offY":0},
+		"shop_shopimgbg":{"w":96,"h":93,"sourceW":96,"originalHeight":93,"x":480,"y":144,"offX":0,"offY":0},
+		"shop_yuan":{"w":29,"h":26,"sourceW":29,"originalHeight":26,"x":820,"y":100,"offX":0,"offY":0},
+		"shop_shopimg":{"w":190,"h":156,"sourceW":190,"originalHeight":156,"x":820,"y":150,"offX":0,"offY":0},
+		"shop_propbg":{"w":521,"h":117,"sourceW":521,"originalHeight":117,"x":0,"y":239,"offX":0,"offY":0},
+		"menu_warn":{"w":112,"h":114,"sourceW":112,"originalHeight":114,"x":688,"y":152,"offX":0,"offY":0}
+	}
+}

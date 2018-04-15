@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="FightPauseSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="640" y="0" height="960" alpha="0.7" x="0" locked="true"/>
+	<e:Image source="setbg_png" horizontalCenter="0" y="220" locked="true"/>
+	<e:Image source="set_setimg" y="179" x="84"/>
+	<e:Image source="set_setimg" anchorOffsetX="0" y="179" horizontalCenter="177" scaleX="-1" x="10"/>
+	<e:Image y="152" source="paustit_png" horizontalCenter="0.5"/>
+	<e:Image source="btnbg_png" y="440" x="332" id="sound_btn"/>
+	<e:Image source="btnbg_png" y="440" x="459" id="sound_eff_btn"/>
+	<e:Image source="set_music_open_btn" verticalCenter="15" touchEnabled="false" x="354" y="10" locked="true"/>
+	<e:Image source="set_sound_open_btn" verticalCenter="16.5" touchEnabled="false" x="479" y="10" locked="true"/>
+	<e:Image source="set_close" y="460" touchEnabled="false" x="480" id="sound_eff_close"/>
+	<e:Image source="set_close" y="460" touchEnabled="false" id="sound_close" x="353"/>
+	<e:Image id="back_btn" source="btnbg_png" y="440" x="79"/>
+	<e:Image id="refresh_btn" source="btnbg_png" y="440" x="206"/>
+	<e:Image source="menu_dj_img3" y="337" x="473"/>
+	<e:Image source="menu_dj_img2" y="337" x="347"/>
+	<e:Image source="menu_dj_img1" y="337" x="221"/>
+	<e:Image source="menu_dj_img0" y="337" x="94"/>
+	<e:Image source="menu_propfram" y="314" x="78" id="prop1"/>
+	<e:Image source="menu_propfram" y="314" id="prop2" x="205"/>
+	<e:Image source="menu_propfram" y="314" id="prop3" x="331"/>
+	<e:Image source="menu_propfram" y="314" id="prop4" x="457"/>
+	<e:Image source="djtit_png" y="248" x="104"/>
+	<e:Label verticalCenter="-148.5" horizontalCenter="-140" fontFamily="Comic Sans MS" textAlign="center" bold="true" text="1" size="23" verticalAlign="middle" id="prop_num1" x="10" y="10"/>
+	<e:Label verticalCenter="-148.5" horizontalCenter="-13" fontFamily="Comic Sans MS" textAlign="center" bold="true" text="1" size="23" verticalAlign="middle" id="prop_num2" x="10" y="10"/>
+	<e:Label verticalCenter="-148.5" horizontalCenter="113" fontFamily="Comic Sans MS" textAlign="center" bold="true" text="1" size="23" verticalAlign="middle" id="prop_num3" x="10" y="10"/>
+	<e:Label verticalCenter="-148.5" horizontalCenter="239" fontFamily="Comic Sans MS" textAlign="center" bold="true" text="1" size="23" verticalAlign="middle" id="prop_num4" x="10" y="10"/>
+	<e:Image source="gold_png" y="248" x="203"/>
+	<e:Image source="jbbg_png" y="243" x="249"/>
+	<e:Label verticalCenter="-214" textColor="0xE8E811" text="99999" fontFamily="微软雅黑" textAlign="left" bold="true" width="184" id="coint_txt" verticalAlign="middle" x="265" y="10"/>
+	<e:Image source="rush_btn_png" x="233" y="467" touchEnabled="false" locked="true"/>
+	<e:Image source="goback_arrow_png" x="101" y="463" touchEnabled="false" locked="true"/>
+</e:Skin>

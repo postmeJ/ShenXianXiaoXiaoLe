@@ -1,0 +1,16 @@
+{
+	"mylv": 1,
+	"myexp": 0,
+	"walllevel": "[1,1,1,1,1,1]",
+	"playGold": 10000,
+	"djtype0": 3,
+	"djtype1": 2,
+	"djtype2": 1,
+	"djtype3": 0,
+	"ChapterData": null,
+	"GameLev": null,
+	"GameList": null,
+	"newplay": true,
+	"newplaylb": false,
+	"payinfo": []
+}

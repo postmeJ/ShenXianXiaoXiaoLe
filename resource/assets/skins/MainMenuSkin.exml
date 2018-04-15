@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="MainMenuSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image source="playinfobg_png" y="60" horizontalCenter="0"/>
+	<e:Image source="munebg_png" y="233" scale9Grid="45,67,139,91" width="600" height="700" horizontalCenter="0" locked="true"/>
+	<e:Image source="menu_dj_img3" x="470" y="531"/>
+	<e:Image source="menu_dj_img2" x="344" y="531"/>
+	<e:Image source="menu_dj_img1" x="218" y="531"/>
+	<e:Image source="menu_dj_img0" x="91" y="531"/>
+	<e:Image id="help_btn" source="menu_help_btn" x="70" y="304"/>
+	<e:Image id="prop1" source="menu_propfram" x="75" y="508"/>
+	<e:Image id="prop2" source="menu_propfram" y="508" x="202"/>
+	<e:Image id="prop3" source="menu_propfram" y="508" x="328"/>
+	<e:Image id="prop4" source="menu_propfram" y="508" x="454"/>
+	<e:Image source="gold_png" x="198" y="319"/>
+	<e:Image source="jbbg_png" x="240" y="315"/>
+	<e:Image id="setting_btn" source="menu_set_btn" x="502" y="302"/>
+	<e:Image source="menu_attacttxt" x="190" y="157"/>
+	<e:Image id="shop_bg" source="menu_shopbtnbg" y="135" anchorOffsetX="58" anchorOffsetY="58" x="534" touchEnabled="false"/>
+	<e:Image source="playlv_png" x="190" y="82"/>
+	<e:Image id="shop_btn" x="485" y="94" source="shop_btn_png"/>
+	<e:Image source="walltit_png" x="110" y="693"/>
+	<e:Image id="wall1" source="menu_wall1_1" horizontalCenter="-175" y="780"/>
+	<e:Image id="wall2" source="menu_wall1_1" horizontalCenter="-105" y="780"/>
+	<e:Image id="wall3" source="menu_wall1_1" horizontalCenter="-35" y="780"/>
+	<e:Image id="wall4" source="menu_wall1_1" horizontalCenter="35" y="780"/>
+	<e:Image id="wall5" source="menu_wall1_1" horizontalCenter="105" y="780"/>
+	<e:Image id="wall6" source="menu_wall1_1" horizontalCenter="175" y="780"/>
+	<e:Image source="menu_levimg" x="111" y="841"/>
+	<e:Image source="djtit_png" x="110" y="420"/>
+	<e:Label id="prop_num1" text="1" bold="true" fontFamily="Comic Sans MS" size="23" verticalAlign="middle" textAlign="center" horizontalCenter="-143" verticalCenter="45.5"/>
+	<e:Label id="wall_lv1" verticalCenter="373" verticalAlign="middle" text="1" fontFamily="微软雅黑" textAlign="center" size="24" y="10" bold="true" left="148"/>
+	<e:Label id="wall_lv3" y="20" verticalCenter="373" verticalAlign="middle" text="1" fontFamily="微软雅黑" textAlign="center" bold="true" left="288" size="24" x="10"/>
+	<e:Label id="wall_lv5" y="40" verticalCenter="373" verticalAlign="middle" text="1" fontFamily="微软雅黑" textAlign="center" bold="true" left="428" size="24" x="30"/>
+	<e:Label id="wall_lv6" y="50" verticalCenter="373" verticalAlign="middle" text="1" fontFamily="微软雅黑" textAlign="center" bold="true" left="498" size="24" x="40"/>
+	<e:Label id="wall_lv4" y="30" verticalCenter="373" verticalAlign="middle" text="1" fontFamily="微软雅黑" textAlign="center" bold="true" left="358" size="24" x="20"/>
+	<e:Image source="menu_levimg" y="841" x="181"/>
+	<e:Image source="menu_levimg" y="841" x="251"/>
+	<e:Image source="menu_levimg" y="841" x="321"/>
+	<e:Image source="menu_levimg" y="841" x="391"/>
+	<e:Image source="menu_levimg" y="841" x="461"/>
+	<e:Label id="wall_lv2" y="20" verticalCenter="373" verticalAlign="middle" text="1" fontFamily="微软雅黑" textAlign="center" bold="true" left="218" size="24" x="10"/>
+	<e:Label id="prop_num2" verticalAlign="middle" text="1" fontFamily="Comic Sans MS" textAlign="center" bold="true" size="23" horizontalCenter="-16" verticalCenter="45.5"/>
+	<e:Label id="prop_num3" verticalAlign="middle" text="1" fontFamily="Comic Sans MS" textAlign="center" bold="true" size="23" horizontalCenter="110" verticalCenter="45.5"/>
+	<e:Label id="prop_num4" verticalAlign="middle" text="1" fontFamily="Comic Sans MS" textAlign="center" bold="true" size="23" horizontalCenter="236" verticalCenter="45.5"/>
+	<e:Image id="wall_select" y="761" source="menu_selectbg" horizontalCenter="-175"/>
+	<e:Label id="coint_txt" text="99999" x="255" width="184" verticalCenter="-141" verticalAlign="middle" textAlign="left" bold="true" textColor="0xE8E811" fontFamily="微软雅黑"/>
+	<e:Label id="role_lv" x="265" verticalCenter="-382" verticalAlign="middle" text="53263" fontFamily="微软雅黑" textAlign="left" bold="true" width="135" y="10" textColor="0xFFFFFF"/>
+	<e:Label id="role_atk" y="20" verticalCenter="-306" verticalAlign="middle" text="53263" fontFamily="微软雅黑" textAlign="left" bold="true" width="116" textColor="0xFFFFFF" x="291"/>
+	<ns1:MyProgressBar id="expbar" x="172" y="123" skinName="ExpBarSkin" enabled="true"/>
+</e:Skin>

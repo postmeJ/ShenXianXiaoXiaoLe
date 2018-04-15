@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="MissionListSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="title_bg" source="infobg_png" y="100" horizontalCenter="28"/>
+	<e:Image source="listgktit" x="237" y="111"/>
+	<e:Image source="listlisttitimg" x="407" y="125"/>
+	<e:Image source="listlisttitimg" y="125" x="217" scaleX="-1"/>
+	<e:Image id="back_btn" source="btnbg_png" x="39" y="86" smoothing="true" scaleX="0.9" scaleY="0.9"/>
+	<e:Image source="goback_arrow_png" x="57" y="104" touchEnabled="false"/>
+</e:Skin>

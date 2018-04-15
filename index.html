@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Egret</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="true"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <style>
+        html, body {
+            -ms-touch-action: none;
+            background: #888888;
+            padding: 0;
+            border: 0;
+            margin: 0;
+            height: 100%;
+        }
+    </style>
+
+    <!--这个标签为通过egret提供的第三方库的方式生成的 javascript 文件。删除 modules_files 标签后，库文件加载列表将不会变化，请谨慎操作！-->
+    <!--modules_files_start-->
+	<script egret="lib" src="libs/modules/egret/egret.js"></script>
+	<script egret="lib" src="libs/modules/egret/egret.web.js"></script>
+	<script egret="lib" src="libs/modules/eui/eui.js"></script>
+	<script egret="lib" src="libs/modules/res/res.js"></script>
+	<script egret="lib" src="libs/modules/tween/tween.js"></script>
+	<script egret="lib" src="libs/modules/game/game.js"></script>
+	<!--modules_files_end-->
+
+    <!--这个标签为不通过egret提供的第三方库的方式使用的 javascript 文件，请将这些文件放在libs下，但不要放在modules下面。-->
+    
+
+    <!--这个标签会被替换为项目中所有的 javascript 文件。删除 game_files 标签后，项目文件加载列表将不会变化，请谨慎操作！-->
+    <!--game_files_start-->
+	<script egret="lib" src="bin-debug/core/view/component/BaseButton.js"></script>
+	<script egret="lib" src="bin-debug/core/view/component/BaseFirstUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/component/BasePopUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/component/BaseSecondUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/FightPauseUI.js"></script>
+	<script egret="lib" src="bin-debug/core/data/StringConst.js"></script>
+	<script egret="lib" src="bin-debug/core/data/UIConst.js"></script>
+	<script egret="lib" src="bin-debug/core/event/MyUIEvent.js"></script>
+	<script egret="lib" src="bin-debug/core/manager/DataManager.js"></script>
+	<script egret="lib" src="bin-debug/core/manager/LoadManager.js"></script>
+	<script egret="lib" src="bin-debug/core/manager/RoleManager.js"></script>
+	<script egret="lib" src="bin-debug/core/manager/SoundManager.js"></script>
+	<script egret="lib" src="bin-debug/core/manager/TweenManager.js"></script>
+	<script egret="lib" src="bin-debug/core/manager/UIManager.js"></script>
+	<script egret="lib" src="bin-debug/core/utils/Base64Util.js"></script>
+	<script egret="lib" src="bin-debug/core/utils/FilterUtil.js"></script>
+	<script egret="lib" src="bin-debug/core/utils/md5.js"></script>
+	<script egret="lib" src="bin-debug/core/utils/ViewUtil.js"></script>
+	<script egret="lib" src="bin-debug/core/view/avg/AVGLogic.js"></script>
+	<script egret="lib" src="bin-debug/core/view/avg/AvgMainUI.js"></script>
+	<script egret="lib" src="bin-debug/AssetAdapter.js"></script>
+	<script egret="lib" src="bin-debug/ThemeAdapter.js"></script>
+	<script egret="lib" src="bin-debug/core/command/HttpCommand.js"></script>
+	<script egret="lib" src="bin-debug/core/data/GlobalData.js"></script>
+	<script egret="lib" src="bin-debug/core/view/component/MyProgressBar.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/EnemyView.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/FightLogic.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/FightMainUI.js"></script>
+	<script egret="lib" src="bin-debug/Main.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/FightResult.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/GemView.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/SoldierListView.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/SoldierView.js"></script>
+	<script egret="lib" src="bin-debug/core/view/fight/WallView.js"></script>
+	<script egret="lib" src="bin-debug/core/view/loading/LoadingInGameUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/loading/LoadingUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/loading/PreLoadUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/login/LoginMain.js"></script>
+	<script egret="lib" src="bin-debug/core/view/login/StartButton.js"></script>
+	<script egret="lib" src="bin-debug/core/view/logo/LogoAnimation.js"></script>
+	<script egret="lib" src="bin-debug/core/view/main/MenuUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/main/SettingUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/main/ShopUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/pop/PopWindow.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/ChapterSelect.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/ChapterSelectUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/ChapterUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/MissionBtn.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/MissionItem.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/MissionUI.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/StoryLogic.js"></script>
+	<script egret="lib" src="bin-debug/core/view/story/StoryUI.js"></script>
+	<script egret="lib" src="bin-debug/core/vo/EnemyVO.js"></script>
+	<script egret="lib" src="bin-debug/core/vo/GemVO.js"></script>
+	<script egret="lib" src="bin-debug/core/vo/SoldierVO.js"></script>
+	<script egret="lib" src="bin-debug/core/vo/WallVO.js"></script>
+	<!--game_files_end-->
+</head>
+<body>
+
+    <div style="margin: auto;width: 100%;height: 100%;" class="egret-player"
+         data-entry-class="Main"
+         data-orientation="auto"
+         data-scale-mode="showAll"
+         data-frame-rate="30"
+         data-content-width="640"
+         data-content-height="960"
+         data-show-paint-rect="false"
+         data-multi-fingered="2"
+         data-show-fps="false" data-show-log="false"
+         data-log-filter="" data-show-fps-style="x:0,y:0,size:30,textColor:0x00c200,bgAlpha:0.9">
+    </div>
+    <script>
+        //默认使用 WebGL 渲染模式
+        egret.runEgret({renderMode:"webgl"});
+    </script>
+</body>
+</html>

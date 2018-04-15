@@ -1,0 +1,4 @@
+[{"id": 0, "name": "修复", "type": 0, "img": "dj_img1.png", "price": 1000, "info": "修复破损的城墙，恢复城墙。", "actret": 1, "actprice": 500 },
+{"id": 1, "name": "炸弹", "type": 1, "img": "dj_img2.png", "price": 1200, "info": "释放炸弹，对敌人造成伤害。", "actret": 1, "actprice": 600 },
+{"id": 2, "name": "暴动", "type": 2, "img": "dj_img3.png", "price": 8000, "info": "转换并激活全部元素。", "actret": 1, "actprice": 4000 },
+{"id": 3, "name": "经验水晶", "type": 3, "img": "dj_img4.png", "price": 40000, "info": "持有水晶可额外获得1.5倍经验，最多持有2个（永久道具）。", "actret": 0, "actprice": 40000 }]

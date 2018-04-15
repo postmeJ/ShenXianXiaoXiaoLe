@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ChapterSelectSkin" width="136" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image name="bg" source="mainchapterbg" scale9Grid="17,47,102,185" y="0" horizontalCenter="0"/>
+	<e:Image name="chapter1" source="mainchapter0_btn" y="20" horizontalCenter="0"/>
+	<e:Image name="chapter2" source="mainchapter1_btn" y="80" horizontalCenter="0"/>
+	<e:Image name="chapter3" source="mainchapter2_btn" y="140" horizontalCenter="0"/>
+	<e:Image name="chapter4" source="mainchapter3_btn" y="200" horizontalCenter="0"/>
+	<e:Image name="chapter_select" source="mainybtn_bg" y="68" horizontalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,1351 @@
+[{
+	"id": 0,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": 0,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[25,25,25,25,0,0]"
+}, {
+	"id": 1,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[25,25,25,25,0,0]"
+}, {
+	"id": 2,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[25,25,25,25,0,0]"
+}, {
+	"id": 3,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[25,25,25,25,0,0]"
+}, {
+	"id": 4,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[25,25,25,25,0,0]"
+}, {
+	"id": 5,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,12,0]"
+}, {
+	"id": 6,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,12,0]"
+}, {
+	"id": 7,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,12,0]"
+}, {
+	"id": 8,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,12,0]"
+}, {
+	"id": 9,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,12,0]"
+}, {
+	"id": 10,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 11,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 12,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 13,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 14,
+	"pid": 0,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 15,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 16,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 17,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 18,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 19,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,12,8]"
+}, {
+	"id": 20,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 21,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 22,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 23,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 24,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 25,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 26,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 27,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 28,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 29,
+	"pid": 1,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[20,20,20,20,13,7]"
+}, {
+	"id": 30,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 31,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 32,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 33,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 34,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 35,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 36,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 37,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 38,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 39,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,10,6]"
+}, {
+	"id": 40,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 41,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 42,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 43,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 44,
+	"pid": 2,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 45,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 46,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 47,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 48,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 49,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,11,5]"
+}, {
+	"id": 50,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 51,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 52,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 53,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 54,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 55,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 56,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 57,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 58,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 59,
+	"pid": 3,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[21,21,21,21,12,4]"
+}, {
+	"id": 60,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 61,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 62,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 63,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 64,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 65,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 66,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 67,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 68,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 69,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,8,4]"
+}, {
+	"id": 70,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 71,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 72,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 73,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 74,
+	"pid": 4,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 75,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 76,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 77,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 78,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 79,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,9,3]"
+}, {
+	"id": 80,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 81,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 82,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 83,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 84,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 85,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 86,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 87,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 88,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 89,
+	"pid": 5,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[22,22,22,22,10,2]"
+}, {
+	"id": 90,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 91,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 92,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 93,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 94,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 95,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 96,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 97,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 98,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 99,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,6,2]"
+}, {
+	"id": 100,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 101,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 102,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 103,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 104,
+	"pid": 6,
+	"name": "小关卡",
+	"info": "地——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 105,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 106,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 107,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 108,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 109,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[23,23,23,23,7,1]"
+}, {
+	"id": 110,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 111,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 112,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 113,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 114,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 115,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 116,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 117,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 118,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 119,
+	"pid": 7,
+	"name": "小关卡",
+	"info": "天——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 120,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 121,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 122,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 123,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 124,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 125,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 126,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 127,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 128,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 129,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 130,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 131,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 132,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 133,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}, {
+	"id": 134,
+	"pid": 8,
+	"name": "小关卡",
+	"info": "魔——小关卡",
+	"star": 0,
+	"state": -1,
+	"rewardjb": 0,
+	"exp": 0,
+	"gembirth": "[24,24,24,24,3,1]"
+}]

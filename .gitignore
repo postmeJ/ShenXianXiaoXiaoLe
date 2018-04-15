@@ -1,0 +1,5 @@
+/bin-release
+/bin-debug
+
+libs/
+debug.log

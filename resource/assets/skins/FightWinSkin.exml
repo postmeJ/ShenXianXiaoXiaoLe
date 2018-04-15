@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="FightWinSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect height="960" width="640" x="0" y="0" alpha="0.7" locked="true"/>
+	<e:Image source="set_setimg" x="81" y="253"/>
+	<e:Image source="set_setimg" y="253" scaleX="-1" anchorOffsetX="0" horizontalCenter="175"/>
+	<e:Image id="bg" source="setbg_png" y="294" horizontalCenter="0"/>
+	<e:Label text="战斗胜利" y="398" width="491" height="146" size="100" verticalAlign="middle" textAlign="center" horizontalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="FightBgSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="fightbg0_jpg" horizontalCenter="0" locked="true"/>
+	<e:Image source="fightbgb_jpg" horizontalCenter="0" bottom="0" locked="true"/>
+	<e:Image id="porp1" source="menu_dj_img0" x="90" y="20" scaleX="0.7" scaleY="0.7" smoothing="true"/>
+	<e:Image id="porp2" source="menu_dj_img1" x="180" y="20" scaleX="0.7" scaleY="0.7" smoothing="true"/>
+	<e:Image id="porp3" source="menu_dj_img2" x="270" y="20" scaleX="0.7" scaleY="0.7" smoothing="true"/>
+	<e:Label id="porp_num1" text="99" x="130" y="65" size="16" bold="true" touchEnabled="false" verticalAlign="middle" textAlign="right"/>
+	<e:Label id="porp_num2" y="65" size="16" text="99" bold="true" touchEnabled="false" x="220" textAlign="right" verticalAlign="middle"/>
+	<e:Label id="porp_num3" y="65" touchEnabled="false" text="99" bold="true" size="16" x="310" textAlign="right" verticalAlign="middle"/>
+	<e:Image id="pause_btn" source="btnbg_png" scaleX="0.7" scaleY="0.7" smoothing="true" x="561" y="0"/>
+	<e:Image source="pause_png" scaleX="0.8" scaleY="0.8" right="18" top="16" touchEnabled="false" locked="true"/>
+</e:Skin>

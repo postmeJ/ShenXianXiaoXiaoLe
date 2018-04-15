@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="BuyWallSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="munebg_png" horizontalCenter="0" verticalCenter="0" scale9Grid="78,80,68,67" width="610" height="460"/>
+	<e:Image source="gold_png" y="331" x="188"/>
+	<e:Image source="jbbg_png" y="327" x="235"/>
+	<e:Label id="coint_txt" verticalCenter="-130" verticalAlign="middle" text="99999" fontFamily="微软雅黑" textAlign="left" bold="true" width="184" textColor="0xE8E811" x="245" y="10"/>
+	<e:Image source="djinfobg_png" horizontalCenter="0" verticalCenter="0" locked="true"/>
+	<e:Image id="buy_btn" source="buybtn_png" x="371" y="580"/>
+	<e:Image id="back_btn" source="gobackbtn_png" x="131" y="580"/>
+	<e:Image source="gold_png" y="505" x="95" scaleX="0.8" scaleY="0.8" smoothing="true"/>
+	<e:Label id="price_txt" x="133" y="20" verticalCenter="41" verticalAlign="middle" text="99999" fontFamily="微软雅黑" textAlign="left" bold="true" width="99" textColor="0xE8E811" size="26"/>
+	<e:Label id="des_txt" text="这里是技能的说明啊大神范德萨发大水发" fontFamily="黑体" size="26" x="245" y="30" verticalCenter="-5" verticalAlign="top" textAlign="left" width="288" height="110" wordWrap="true" multiline="true" lineSpacing="5"/>
+	<e:Image source="menu_dj_img2" x="130" verticalCenter="-21"/>
+</e:Skin>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ExpBarSkin" width="246" height="33" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="expbg_png" y="0" right="0" locked="true"/>
+	<e:Image id="progress_bar" source="expbar_png" x="0" y="2" width="240" scale9Grid="7,2,207,18" locked="true"/>
+	<e:Image id="progress_bar_mask" source="expbar_png" y="0" width="219" x="21" scale9Grid="7,4,207,14" height="26"/>
+	<e:Label id="progress_txt" x="27" y="4" width="208" size="18" verticalAlign="middle" textAlign="center" fontFamily="微软雅黑" locked="true"/>
+</e:Skin>

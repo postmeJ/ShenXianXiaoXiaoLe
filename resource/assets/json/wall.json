@@ -1,0 +1,29 @@
+{
+	"file":"wall.png",
+	"frames":
+	{
+    	"wall_wall5_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":0,"y":0,"offX":0,"offY":0},
+		"wall_wall5_2":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":52,"y":0,"offX":0,"offY":0},
+		"wall_wall5_3":{"w":50,"h":47,"sourceW":50,"originalHeight":50,"x":104,"y":0,"offX":0,"offY":-1.5},
+		"wall_wall5_4":{"w":50,"h":42,"sourceW":50,"originalHeight":50,"x":156,"y":0,"offX":0,"offY":-4},
+		"wall_wall1_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":208,"y":0,"offX":0,"offY":0},
+		"wall_wall1_2":{"w":50,"h":49,"sourceW":50,"originalHeight":50,"x":260,"y":0,"offX":0,"offY":-0.5},
+		"wall_wall1_3":{"w":50,"h":46,"sourceW":50,"originalHeight":50,"x":312,"y":0,"offX":0,"offY":-2},
+		"wall_wall1_4":{"w":50,"h":45,"sourceW":50,"originalHeight":50,"x":364,"y":0,"offX":0,"offY":-2.5},
+		"wall_wall2_1":{"w":50,"h":48,"sourceW":50,"originalHeight":50,"x":416,"y":0,"offX":0,"offY":-1},
+		"wall_wall2_2":{"w":50,"h":46,"sourceW":50,"originalHeight":50,"x":312,"y":48,"offX":0,"offY":-2},
+		"wall_wall2_3":{"w":50,"h":46,"sourceW":50,"originalHeight":50,"x":104,"y":49,"offX":0,"offY":-2},
+		"wall_wall2_4":{"w":50,"h":35,"sourceW":50,"originalHeight":50,"x":364,"y":50,"offX":0,"offY":-7.5},
+		"wall_wall3_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":416,"y":50,"offX":0,"offY":0},
+		"wall_wall3_2":{"w":50,"h":49,"sourceW":50,"originalHeight":50,"x":0,"y":52,"offX":0,"offY":-0.5},
+		"wall_wall3_3":{"w":50,"h":46,"sourceW":50,"originalHeight":50,"x":156,"y":52,"offX":0,"offY":-2},
+		"wall_wall3_4":{"w":50,"h":35,"sourceW":50,"originalHeight":50,"x":208,"y":52,"offX":0,"offY":-7.5},
+		"wall_wall4_1":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":208,"y":89,"offX":0,"offY":0},
+		"wall_wall4_2":{"w":50,"h":50,"sourceW":50,"originalHeight":50,"x":260,"y":96,"offX":0,"offY":0},
+		"wall_wall4_3":{"w":50,"h":45,"sourceW":50,"originalHeight":50,"x":312,"y":96,"offX":0,"offY":-2.5},
+		"wall_wall4_4":{"w":50,"h":40,"sourceW":50,"originalHeight":50,"x":52,"y":97,"offX":0,"offY":-5},
+		"wall_dj_hd0":{"w":100,"h":98,"sourceW":100,"originalHeight":100,"x":104,"y":100,"offX":0,"offY":1},
+		"wall_dj_hd1":{"w":100,"h":96,"sourceW":100,"originalHeight":100,"x":364,"y":102,"offX":0,"offY":0},
+		"wall_dj_hd2":{"w":99,"h":99,"sourceW":100,"originalHeight":100,"x":0,"y":139,"offX":0.5,"offY":0.5}
+	}
+}

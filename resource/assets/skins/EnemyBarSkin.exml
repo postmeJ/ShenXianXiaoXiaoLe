@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="EnemyBarSkin" width="90" height="10" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="defbloodbg_png" y="0" x="10" scale9Grid="12,2,76,7" width="80" locked="true"/>
+	<e:Image id="progress_bar" source="defblood_png" x="0" y="0" width="90" scale9Grid="6,3,89,4" locked="true"/>
+	<e:Image id="progress_bar_mask" source="defblood_png" x="10" y="0" scale9Grid="12,3,76,5" width="80" locked="true"/>
+	<e:Label id="progress_txt" size="10" width="76" verticalAlign="middle" textAlign="center" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

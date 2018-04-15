@@ -1,0 +1,46 @@
+[ {
+	"id": 0,
+	"name": "金币兑换",
+	"amount": 10000,
+	"type": 1,
+	"img": "jb_img1.png",
+	"rmb": 6,
+	"rewarddj": null,
+	"rewardnum": null
+}, {
+	"id": 1,
+	"name": "金币兑换",
+	"amount": 30000,
+	"type": 1,
+	"img": "jb_img2.png",
+	"rmb": 16,
+	"rewarddj": null,
+	"rewardnum": null
+}, {
+	"id": 2,
+	"name": "金币兑换",
+	"amount": 55000,
+	"type": 1,
+	"img": "jb_img3.png",
+	"rmb": 26,
+	"rewarddj": null,
+	"rewardnum": null
+}, {
+	"id": 3,
+	"name": "金币兑换",
+	"amount": 130000,
+	"type": 1,
+	"img": "jb_img4.png",
+	"rmb": 55,
+	"rewarddj": null,
+	"rewardnum": null
+}, {
+	"id": 4,
+	"name": "金币兑换",
+	"amount": 200000,
+	"type": 1,
+	"img": "jb_img5.png",
+	"rmb": 72,
+	"rewarddj": null,
+	"rewardnum": null
+}]

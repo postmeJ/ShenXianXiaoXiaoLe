@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ShopSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Rect height="960" width="640" x="0" y="0" alpha="0.7"/>
+	<e:Image source="infobg_png" y="60" x="120"/>
+	<e:Image source="gold_png" y="74" x="214"/>
+	<e:Label id="coint_txt" verticalCenter="-386" verticalAlign="middle" text="99999" fontFamily="微软雅黑" textAlign="left" bold="true" width="184" textColor="0xE8E811" x="267" y="10"/>
+	<e:Image source="munebg_png" y="172" width="606" height="714" horizontalCenter="0" scale9Grid="83,79,60,50"/>
+	<e:Image source="shop_shopimg" x="43" y="35"/>
+</e:Skin>
